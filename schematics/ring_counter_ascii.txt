@@ -1,0 +1,8 @@
+Fluidic NOT Ring Counter
+
+[N1] -> [N2] -> [N3] -> [N4] -> [N5]
+  |       |       |       |       |
+ OUT0    OUT1    OUT2    OUT3    OUT4
+  |________________ feedback __________|
+
+Each [N] = fluidic NOT gate (inversion + delay)
